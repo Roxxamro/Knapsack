@@ -17,7 +17,7 @@ Le pdf de presentation et le rapport sont nos rendus du premier et deuxième sem
 
 
 # Equipe
-Quentin AMBROZIEWICZ | Simon DEMEILLIERS | Ayoub SRIJ
+Quentin AMBROZIEWICZ | Simon DEMEILLIERS | Ayoub SRIJ | Mohamed AYMEN HAMID
 
 # Remerciement 
 Merci à Samuel DELEPLANQUE (Enseignant-Chercheur) pour nous avoir guidé et aider dans ce projet
