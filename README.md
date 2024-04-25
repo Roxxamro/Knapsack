@@ -6,9 +6,13 @@ Le but étant de réaliser le problème Knapsack (OPTIMISATION) et de l'incorpor
 
 # Informations
 Les deux programmes sont disponibles en python avec des datasets (CSV) :
+
 -knapsack_gurobi.py pour transformer des données CSV en format .lp pour Gurobi
+
 -knapsack_dwave pour calculer la meilleure solution avec un bqm sur Dwave de nos données CSV
+
 Le pdf de l'université de Lehigh contient la formulation mathématique qui nous a permis d'en arriver jusque là
+
 Le pdf de presentation et le rapport sont nos rendus du premier et deuxième semestre
 
 
